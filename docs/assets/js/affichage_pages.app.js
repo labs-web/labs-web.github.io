@@ -1,17 +1,17 @@
 /**
  * Simulation d'affichage de rapport par page
  */
-
 export function affichage_rapport_par_page(){
     // Ajouter un séparateur des pages avant chaque élément h
     // utilisation hr comme séparateur des pages
-    document.querySelectorAll('h1')
+    document.querySelectorAll('h1, h2')
         .forEach((tag) => {
             const insertBefore = (el, htmlString) =>
                 el.insertAdjacentHTML('beforebegin', htmlString);
             insertBefore(tag, "<hr />");
     });
 }
+
 
 
 /**

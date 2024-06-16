@@ -7,7 +7,7 @@ order: 2
 
 # Introduction 
 
-## Devenez un développeur web accompli : Maîtrisez les langages, frameworks et concepts clés grâce à une pédagogie concrète et structurée
+Devenez un développeur web accompli : Maîtrisez les langages, frameworks et concepts clés grâce à une pédagogie concrète et structurée
 
 **Ce programme complet vous propulse vers une carrière en développement web**
 
