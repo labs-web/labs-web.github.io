@@ -2,6 +2,11 @@
     "lab_reference" : "",
     "packages" : [
         {
+            "name":"planification",
+            "titre":"Planification"
+            
+        },
+        {
             "name":"lab_pratiques",
             "titre":"labs pratiques"
             
